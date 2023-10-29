@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main className="">Notes</main>;
+  return <main className="h-full bg-zinc-100">Notes</main>;
 }
